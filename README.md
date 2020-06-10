@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*%title%*](http://www.apress.com/%isbn%) by %author% (Apress, %pubyear%).
+This repository accompanies [*Basic Linux Terminal Tips and Tricks*](http://www.apress.com/9781484260340) by Philip Kirkbride (Apress, 2020).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484260340.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
